@@ -35,3 +35,7 @@ let printName: (name: string) => void;<br>
 interface Person {<br>
     profession: string;<br>
 }
+
+Feature pending :<br>
+- Drag & drop todos to completion<br>
+- https://youtu.be/FJDVKeh7RJI?si=3KecFe_KeM4PM7_z&t=4049
